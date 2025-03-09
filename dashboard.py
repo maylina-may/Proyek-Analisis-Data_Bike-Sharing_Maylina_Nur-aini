@@ -53,7 +53,6 @@ def rfm_analysis(df_filtered):
     return rfm_df
 
 # --- Sidebar ---
-st.sidebar.image("d:\logo_bike.png", width=200) 
 st.sidebar.title("Dashboard Peminjaman Sepeda 🚲")
 
 # Sidebar Filters
