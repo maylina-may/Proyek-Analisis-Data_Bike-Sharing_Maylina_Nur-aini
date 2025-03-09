@@ -1,4 +1,4 @@
-# 🚴🏻‍♀Dashboard Peminjaman Sepeda🚴🏻‍♀
+# Dashboard Peminjaman Sepeda🚲
 
 ## Deskripsi
 Proyek ini merupakan pengembangan dashboard interaktif menggunakan Streamlit yang bertujuan untuk menganalisis kualitas peminjaman sepeda berdasarkan dataset bike-sharing yang disediakan oleh Dicoding dalam modul analisis data dengan Python. 
